@@ -1,0 +1,16 @@
+# Node
+dist
+node_modules/
+npm-debug.log
+.DS_Store
+
+# Docker
+.env
+docker-compose.override.yml
+
+# Logs
+*.log
+
+# Others
+.vscode/
+.idea/
